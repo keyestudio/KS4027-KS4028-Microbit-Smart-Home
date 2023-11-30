@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
+project = 'Smart Home Kit for Micro:bit'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 
