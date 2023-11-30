@@ -1,6 +1,6 @@
-# makecode Tutorial
+# **Makecode Tutorial**
 
-## Getting Started with Micro:bit
+## **Getting Started with Micro:bit**
 
 The following instructions are applied for Windows system but can also serve as
 a reference if you are using a different system.
@@ -376,7 +376,7 @@ The functions of each button on the Toolbar are listed below:
 
 
 
-## On Board project：
+## **On Board project**
 
 ### Project 1: Heartbeat
 
@@ -1656,7 +1656,7 @@ a heart pattern.
 
 ![](media/image/ebfd31347a0553de0be4e01636652a15.png)
 
-## Expansion Projects：
+## **Expansion Projects**
 
 The former 14 projects are the introduction of sensors and modules. The further
 lessons are challenging for new starters.
@@ -3142,8 +3142,8 @@ pop up on the LCD module and “Enter password”will appear.
 
 You can touch the logo of the micro:bit to close the door.
 
-## Resources:
+## **Resources:**
 
-https://fs.keyestudio.com/KS4027-4028
+[https://fs.keyestudio.com/KS4027-4028](https://fs.keyestudio.com/KS4027-4028)
 
 

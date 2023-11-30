@@ -1,4 +1,4 @@
-# Python Tutorial
+# **Python Tutorial**
 
 The following instructions are applied for Windows system but can also serve as a reference if you are using a different system.
 
