@@ -4,7 +4,7 @@ The following instructions are applied for Windows system but can also serve as 
 
 This tutorial is written for Python language. If you want to use graphical code programming, please refer to the manual "Makecode Tutorial.pdf". In the root directory of the resource you downloaded, there is a folder named "Python tutorial", which stores all the Python code of Microbit smart home. The Python code file is a file ending with ".py".
 
-**Python**
+## **Getting Started With Python**
 
 Python is a scripting language. It has embraced a huge ecology after years of development evidenced by the fact that many of hot artificial intelligence are written in it. It is worth learning.
 
@@ -90,7 +90,7 @@ Mu’s main interface is shown below:
 
 
 
-## **5.Projects：**
+## **On Board Projects：**
 
 ### Project 1: Heartbeat
 
@@ -1144,7 +1144,7 @@ At present, microPython doesn’t support Bluetooth.
 
 https://microbit-micropython.readthedocs.io/en/latest/ble.html
 
-## 7.Expansion Projects：
+## **Expansion Projects：**
 
 The former 14 projects are the introduction of sensors and modules. The further lessons are challenging for new starters.
 
@@ -2208,9 +2208,9 @@ Then the window is closed, the door and the fan rotate;
 
 Make a fire lighter close to the gas sensor, 1602 LCD will display“MQ-2”at the first row and show“gas leakage”at the second row. At same time, it will emit“tick,tick” sound and the yellow LED will flash. Otherwise,the speaker makes no sound, the LED reminds off and the 1602LCD displays no characters.
 
-## **8.Resources:**
+## **Resources:**
 
-https://fs.keyestudio.com/KS4027-4028
+[https://fs.keyestudio.com/KS4027-4028](https://fs.keyestudio.com/KS4027-4028)
 
 
 

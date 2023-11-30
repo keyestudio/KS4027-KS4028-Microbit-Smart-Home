@@ -1,11 +1,11 @@
 # makecode Tutorial
 
-## 5. Getting Started with Micro:bit
+## Getting Started with Micro:bit
 
 The following instructions are applied for Windows system but can also serve as
 a reference if you are using a different system.
 
-### 5.1 Write code and program
+### 1 Write code and program
 
 This chapter describes how to write program and load the program to the Micro:
 Bit main board V2.
@@ -137,7 +137,7 @@ Micro:bit programs in other languages. Go to the link:
 the link: <https://microbit.org/projects/>, to find something you want to have a
 go.
 
-### 5.2.Makecode：
+### 2.Makecode：
 
 Browse <https://makecode.microbit.org/> and enter Makecode online editor or open
 the APP MakeCode for micro:bit of Windows 10.
@@ -154,7 +154,7 @@ There are blocks“on start”and“forever”in the code editing area.
 When the power is plugged or reset,“on start”means that the code in the block
 only executes once, while“forever”implies that the code runs cyclically.
 
-### 5.3 Quick Download
+### 3 Quick Download
 
 As mentioned before, if your computer is Windows 10 and you have downloaded the
 APP MakeCode for micro:bit to write programs, the program written can be quickly
@@ -217,7 +217,7 @@ board. If it is successfully downloaded, the icon
 
 ![Untitled](media/image/96fbd5a50eb87de8ad464cbbd09624f1.png)
 
-### 5.4.Makecode extension library:
+### 4.Makecode extension library:
 
 For your convenience, we have made a makecode extension library for this smart
 home kit.
@@ -278,7 +278,7 @@ Tap the refresh icon to update the corresponding IoT_keyestudio extension file.
 
 ![](media/image/818a03c369319240dc38e23af5c21ec2.png)
 
-### 5.4.Resources and test code
+### 4.Resources and test code
 
 We also provide a link：https://fs.keyestudio.com/KS4027-4028
 
@@ -287,7 +287,7 @@ tutorials and troubleshooting methods as well, as shown in the figure below:
 
 ![](media/image/f7cc0f0ff37a6267dce479048ae6c655.png)
 
-### 5.5.Input test code
+### 5.Input test code
 
 We provide hexadecimal code files (project files) for each project. The file
 contains all the contents of the project and can be imported directly, or you
@@ -333,7 +333,7 @@ However, you need to read the corresponding digital signal or analog signal.So
 what can we do? You can use the CoolTerm software to read the serial port data
 of the microbit. Next chapter is about how to install CoolTerm.
 
-### 5.6. Install CoolTerm：
+### 6. Install CoolTerm：
 
 CoolTerm program is used to read the data on serial port.
 
@@ -374,434 +374,9 @@ The functions of each button on the Toolbar are listed below:
 | ![IMG_256](media/image/36e13c266fd4b9723d9db40fe30cd203.png) | Display the Terminal Data in Hexadecimal Format  |
 | ![](media/image/b505c71c3344036730b1d67f0c62a354.png)        | Display the Help Window                          |
 
-## 6.Install the Smart Home
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7-UzQyuAQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-| **Part 1**                                               |                                                                                                                                                                                                                                                                                                        |        |
-|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-|  Components Needed                                       |  ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第一部分.jpg！_第一部分](media/image/123d0bb2dd100c6a112fcab1e0dc2203.jpeg)                                                                                                                                 |        |
-|  Installation Diagram                                    | ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第一部分安装.jpg！_第一部分安装](media/image/f598262f06657a3013ea7e890b6c3bf5.jpeg)                                                                                                                          |        |
-|  Prototype                                               | ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第一部分完成.jpg！_第一部分完成](media/image/f4080989a9c22fab97bb7f84ff1509fb.jpeg) （wire up the 1602 LCD, as shown below） ![ef7d6ce5e6c7408c956d14399d8504e](media/image/0bae113cf2bd840be13265b24f0c326f.jpeg) |        |
-| **Part 2**                                               |                                                                                                                                                                                                                                                                                                        |        |
-|   Components Needed                                      |  ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第二部分.jpg！_第二部分](media/image/242142caa5724135b985427f1b0e7ce9.jpeg)                                                                                                                                 |        |
-|    Installation Diagram                                  | ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第二部分安装.jpg！_第二部分安装](media/image/b2e099af204a4bcb92a1b71d5abf5653.jpeg)                                                                                                                          |        |
-|    Prototype                                             | ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第二部分完成.jpg！_第二部分完成](media/image/a2d5f6af77a253eede36f93b3cab82f1.jpeg)                                                                                                                          |        |
-| **Part 3**                                               |                                                                                                                                                                                                                                                                                                        |        |
-|  Components Needed                                       | ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第三部分.jpg！_第三部分](media/image/ec801c1a812f6255ebd266a78ed20e4c.jpeg)                                                                                                                                  |        |
-|   Installation Diagram                                   |  ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第三部分安装.jpg！_第三部分安装](media/image/a9b432e5c26a594bfbf81a1011071511.jpeg)                                                                                                                         |        |
-|   Prototype                                              |  ![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第三部分完成.jpg！_第三部分完成](media/image/c4505fa11b62de60ec16b00b25854a5d.jpeg)                                                                                                                         |        |
-| Adjust the angle of the servo controlling windows to 0°  | **Wiring：** Micro:bit Expansion Board                                                                                                                                                                                                                                                                 | Servo  |
-| GND                                                      | Brown Wire                                                                                                                                                                                                                                                                                             |        |
-| 5V                                                       | Red Wire                                                                                                                                                                                                                                                                                               |        |
-| S（9）                                                   | Orange Wire                                                                                                                                                                                                                                                                                            |        |
-
-Connect the main board with the shield and with the computer via USB cable;
-
-Plug them up;
-
-Turn the slide switch on the board to the “ON”end, and the rocker switch to the
-“1”end.
-
-![IMG_256](media/image/ed04ea1ea546dbfe97586822882c99f3.jpeg)
-
-**Example code：**
-
-![](media/image/74148846f4d17d3b2011d0aa90b301e1.png)
-
-After uploading the example code to Micro:bit, the angle of the servo is set to
-0°.
-
-**Part 4**
-
-Components Needed (peel the sticker off the gear-shaped Acrylic board first)
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第四部分.jpg！_第四部分](media/image/c4e1cde64c3fd91d30dc2a8d7174cd9c.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第四部分安装.jpg！_第四部分安装](media/image/d86f9aa6d0f415643629b747471e6cbb.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第四部分完成.jpg！_第四部分完成](media/image/5cf8e8d0cb992c857704eaf3e7b35046.jpeg)
-
-**Part 5**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第五部分.jpg！_第五部分](media/image/fca723b6025c4d68e2329e285aab2e31.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第五部分安装.jpg！_第五部分安装](media/image/2a2f1ebb390afdfcd5819e5c18218b75.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第五部分完成.jpg！_第五部分完成](media/image/5a27f78056cce42948eb52f82069e40a.jpeg)
-
-**Part 6**
-
-Components Needed
-
-(peel the sticker off the Acrylic board first)
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第六部分.jpg！_第六部分](media/image/f52ff0e7e0650b901a8bff6e40eec2b3.jpeg)
-
-Installation Diagram
-
-(The gears of the N Board should be properly jointed with the wooden gear and do
-not fix the self-locking nut tight; after installation, the door is closed.）
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第六部分安装.jpg！_第六部分安装](media/image/da2272a3e51c9e2a02d36293a72da977.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第六部分完成.jpg！_第六部分完成](media/image/92f9f949c080cc89f298781be7532e05.jpeg)
-
-**Part 7**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第七部分.jpg！_第七部分](media/image/458550d18ab28ef0a81c0611f74bda60.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第七部分安装.jpg！_第七部分安装](media/image/e30fee21f227157cc5bc0e777a4ea442.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第七部分完成.jpg！_第七部分完成](media/image/2c119f1d452112a574682e3d3a915f50.jpeg)
-
-**Part 8**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第八部分.jpg！_第八部分](media/image/a0f688fda0d7aec152e8a655c7bfc663.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第八部分安装.jpg！_第八部分安装](media/image/f87a6ea4f7582ec159ac234880db4297.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第八部分完成.jpg！_第八部分完成](media/image/7f79470a49224d41e3e0cabb593ed8f6.jpeg)
-
-**Part 9**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第九部分.jpg！_第九部分](media/image/423507f7618c8ca6c443dc50e2faf562.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第九部分安装.jpg！_第九部分安装](media/image/95b9ae04325d8384854514100731577f.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第九部分完成.jpg！_第九部分完成](media/image/395c8a379018d036856a721005e8cf33.jpeg)
-
-**Part 10**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第十部分.jpg！_第十部分](media/image/68548685a63dbfff5e13fc68e335619e.jpeg)
-
-Installation Diagram
-
-(stick the solar panel along the right side of the line marked in the picture;
-pull the wires on the panel out from the hole in the middle.)
-
-![](media/image/b57fa2f1cedde558ad04de3916b1e187.png)
-
-Prototype
-
-![1](media/image/f42dbc85b50a2737287286fa8e57362a.jpeg)
-
-**Part 11**
-
-Components Needed
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第十一部分.jpg！_第十一部分](media/image/3e26469ef8bf8b5dc361a7315833ec54.jpeg)
-
-Installation Diagram
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第十一部分安装.jpg！_第十一部分安装](media/image/c09c75d05a3ef97858c7da2f3a69712f.jpeg)
-
-Prototype
-
-![C:\\Users\\Administrator\\Desktop\\熊巍\\创客教育组\\项目\\新智能家居\\安装步骤\\安装图片\\！_第十一部分完成.jpg！_第十一部分完成](media/image/299b316c713a3b56d5d28de5bcd4ea97.jpeg)
-
-**Part 12**
-
-Components Needed
-
-![！_第十二部分](media/image/c1fa17b061c9e8140e65eb1afe320cca.jpeg)
-
-Installation Diagram
-
-![！_第十二部分安装](media/image/708c8757ce0318746508ed845eb40bc1.jpeg)
-
-Prototype
-
-![！_第十二部分完成](media/image/343332699bba9b2701b3be0c97b9878a.jpeg)
-
-**Part 13**
-
-Components Needed
-
-![！_第十三部分](media/image/3c7f391571c4fc8bc0d8ae5d0a09d392.jpeg)
-
-Installation Diagram
-
-![！_第十三部分安装](media/image/a2038986efd53765acd444e3c5c185fe.jpeg)
-
-Prototype
-
-![！_第十三部分完成](media/image/b1e6af115562a1c5f331057d879d59b6.jpeg)
-
-**Part 14**
-
-Components Needed
-
-![！_第十四部分](media/image/211f5064600cd9be237536c92b3e4909.jpeg)
-
-Installation Diagram
-
-![！_第十四部分安装](media/image/7dcda07aed625bc324e878fab036f2e0.jpeg)
-
-Prototype
-
-![！_第十四部分完成](media/image/16d58658922bcdc66079eb9b39edade4.jpeg)
-
-**Part 15**
-
-Components Needed
-
-![！_第十五部分](media/image/9cb36007b3cfad984ba31086f278f771.jpeg)
-
-Installation Diagram
-
-![！_第十五部分安装](media/image/23e54197e618c6d4f6e2aaaebae23382.jpeg)
-
-Prototype
-
-![！_第十五部分完成](media/image/9aba461dd63ba101851411d5add219dd.jpeg)
-
-**Part 16**
-
-Components Needed
-
-![！_第十六部分](media/image/aae2c6783f7d47b047e8949080515c24.jpeg)
-
-Installation Diagram
-
-![！_第十六部分安装](media/image/d3a4d49d710206357e2ae7d34888e077.jpeg)
-
-Prototype
-
-![！_第十六部分完成](media/image/ab8c06e24f7dfee541a81069a4b7c6f0.jpeg)
-
-**Part 17**
-
-Component Needed
-
-![！_第十七部分](media/image/00db16085eb865e5e24b707b7c62701d.jpeg)
-
-Installation Diagram
-
-![2](media/image/b69109869c6340019eb85c4b4e1eb4a3.jpeg)
-
-Prototype
-
-![！_第十七部分完成](media/image/c9aca89336d5abbb24d89f779d861322.jpeg)
-
-**Part 18**
-
-Components Needed
-
-![！_第十八部分](media/image/a582e7389114ca21482b571f8f796904.jpeg)
-
-Installation Diagram
-
-![！_第十八部分安装](media/image/7a1aed92d569d14f286edfb3b07b45c4.jpeg)
-
-Prototype
-
-![！_第十八部分完成](media/image/3df7bde0937018ca032c8dd5a66e681a.jpeg)
-
-**Part 19**
-
-Components Needed
-
-(peel the sticker off the Acrylic board first)
-
-![！_第十九部分](media/image/13309291230b405a6752cfd8ad888756.jpeg)
-
-Installation Diagram
-
-![！_第十九部分安装](media/image/082451d4426d27f862a68a5a659db8ba.jpeg)
-
-Prototype
-
-![！_第十九部分完成](media/image/74e46ec89eb9e5c0bbc80eec023b9a80.jpeg)
-
-**Part 20**
-
-Components Needed
-
-![！_第二十部分](media/image/e1d9b993301caae84a1bb13cd79a6ea6.jpeg)
-
-Installation Diagram
-
-![！_第二十部分安装](media/image/79d73d05c4b721eacd32328b1b9000aa.jpeg)
-
-Prototype
-
-![！_第二十部分完成](media/image/a243f8c97d1badb7e4a9907cafc5803b.jpeg)
-
-**Part 21**
-
-Components Needed
-
-![！_第二十一部分](media/image/a55addd599ae6af15688e7de11bb2d17.jpeg)
-
-Installation Diagram
-
-![！_第二十一部分安装](media/image/8c4afdddcff669db10aafb06cdabf693.jpeg)
-
-Prototype
-
-![！_第二十一部分完成](media/image/26848fae53908dc5eca30b27987fbe89.jpeg)
-
-**Start Wiring**
-
-The wiring of the battery holder
-
-(plug its jack to the BAT end of the rechargeable power module)
-
-![cb8c1554135811286767d2a42b2880d](media/image/4897d617bcd7a3b1dffc73be11ddb8a9.jpeg)
-
-![](media/image/54c30cd9df2b6d77cd9aba5a7c797977.png)
-
-![](media/image/154648ebbf3b28a0e8ca68be0e61460f.png)
-
-The wiring of the yellow LED
-
-![aa334cbf32c9effe78b2e4796e05310](media/image/7d3578cebec69df3ae0f4d1f0b4cf551.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091342/output_1.jpgoutput_1](media/image/66b00a17346c1f04ad00c7449d99eef0.jpeg)
-
-![IMG_256](media/image/22a8451e674da7f486410974c10b88f4.png)
-
-The wiring of the RGB module
-
-![3e485e00ca9e8695c4b113c8c724e8a](media/image/e465549002b852ddb1ebfdebfa4de0f6.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091438/output_1.jpgoutput_1](media/image/4031d8ea455995dafe6a62ea7cbfbdee.jpeg)
-
-![IMG_256](media/image/433900d113f60cb9adb8f1c3d73cb510.png)
-
-The wiring of the PIR motion sensor
-
-Use the longer Dupont wire
-
-![23599a31a9a21a3e2715add9ac5bc55](media/image/16cb55b79777563bdd3b079f11e3f6d0.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091533/output_1.jpgoutput_1](media/image/bd8ecd2293d3f323c9d73ddede2c6f18.jpeg)
-
-![IMG_256](media/image/99e198c130c51804c9dd4237529fa947.png)
-
-The wiring of the 1602LCD
-
-![ef7d6ce5e6c7408c956d14399d8504e](media/image/01f31e8172ae900f01de669749c3e2d9.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091556/output_1.jpgoutput_1](media/image/89d3143c93e1cbee66d4358427e0dcc9.jpeg)
-
-![IMG_256](media/image/36f7c0f0542d0d172d2657b35e9d1ca8.png)
-
-The wiring of the analog gas sensor
-
-![88b1ec43f948b822c0d56354a1fd194](media/image/fdd2405e31b6c6d420aa150f96cc8616.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091624/output_1.jpgoutput_1](media/image/06abba36593d624f2160510b4e9c50f0.jpeg)
-
-![IMG_256](media/image/108f501eb3833514b3f687d26d8037f4.png)
-
-The wiring of the humidity and temperature sensor
-
-Use the longer Dupont wire
-
-![54692b56d2983e1ff24bb2cdc67824d](media/image/663f8978927cfabfe3abfd5d8a3536f5.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091700/output_1.jpgoutput_1](media/image/ea300faea14b38886b14c2a2d2fd6852.jpeg)
-
-![IMG_256](media/image/38d05d1f009604d9a4b39d4c3e3df96d.png)
-
-The wiring of the servo controlling the door
-
-![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091758/output_1.jpgoutput_1](media/image/4813f5dd2f3179d76e1fffaa5bae9476.jpeg)
-
-![IMG_256](media/image/9c0782ddd631d98862a07249c221622a.png)
-
-The wiring of the servo controlling the window
-
-![a068e0fa63eef8e4c7d9376796b0f1a](media/image/d0c4ff4c7daa5029d162567f730bb1a1.jpeg)![C:/Users/Administrator/AppData/Local/Temp/picturecompress_20210806091827/output_1.jpgoutput_1](media/image/9aa8ea49a7d62973117c5ec29e6db4cf.jpeg)
-
-![IMG_256](media/image/606280c54c14b3d6daba4a613c5b34ad.png)
-
-The wiring of the rechargeable lithium battery power module (Connect the shield
-with it; attach the red wire to V and the black one to G.）
-
-![](media/image/e7db1e1e1a0a1f17a3a34372312d6f60.png)
-
-![](media/image/c33d0cd3eaaacee384f2bd842099bd41.png)
-
-![1381ef64bec45c99a61a415c336ebfc](media/image/98c0a54bec25cee42fc60adfcee0cd32.jpeg)
-
-The wiring of the solar panel
-
-![](media/image/c56e7d4227e840076408e46a39dfb8a3.png)
-
-![](media/image/d5d2e2bb699061ec593c80370b077ee5.png)
-
-![](media/image/5c13c134f86bd80eaed8d4e9d257ad05.png)
-
-The wiring of the motor (Please pay attention to the pins and the connection
-cannot be reversed.)
-
-![5a9676493c388feb8c7c835afc3db33](media/image/29a6be7fb5a2e00092567c0eee834fab.jpeg)![](media/image/14877d0e2b9eaa6df5bdadacdc3eb442.png)
-
-![](media/image/f269672e09aa49569d90f97b63c3c7d7.png)
-
-The wiring of the steam sensor
-
-(Connect it to the P0 of 3.3V or the analog value can not be read.)
-
-![IMG_256](media/image/33cba18f520d97b9c0d429b437f12bbe.jpeg)![](media/image/04baa65c05c2350075814a2546a8f1c6.png)
-
-![](media/image/1e27f23139327bdc7636fde376cb66cf.png)
-
-**Mount the Roof**
-
-Components Needed
-
-![！_第二十二部分](media/image/63e234ef6d2dbb21476207084e853503.jpeg)
-
-Installation Diagram
-
-![！_第二十二部分安装1](media/image/1c0a4a05612051b0569c9f38f5b86b26.jpeg)
-
-Prototype
-
-![！_第二十二部分安装1完成](media/image/155bd1cb7793e1ffd8b76030d37287ad.jpeg)
-
-Installation Diagram
-
-![！_第二十二部分安装2](media/image/2e49c13915d2b94ae6c98878283c9a5a.jpeg)
-
-Prototype
-
-![！_第二十二部分安装2完成](media/image/df97e2bf16f1ec754934f607318d0c6a.jpeg)
-
-Install Micro:bit main board
-
-![！_第二十二部分安装3](media/image/1afde626df327cdad5466a5008902058.jpeg)
-
-Prototype
-
-![！_第二十二部分完成（总装完成）](media/image/07a2c3b46c7920d96552f00f69406460.jpeg)
-
-## 7.On Board project：
+## On Board project：
 
 ### Project 1: Heartbeat
 
@@ -2081,7 +1656,7 @@ a heart pattern.
 
 ![](media/image/ebfd31347a0553de0be4e01636652a15.png)
 
-## 8.Expansion Projects：
+## Expansion Projects：
 
 The former 14 projects are the introduction of sensors and modules. The further
 lessons are challenging for new starters.
@@ -3567,7 +3142,7 @@ pop up on the LCD module and “Enter password”will appear.
 
 You can touch the logo of the micro:bit to close the door.
 
-## 9.Resources:
+## Resources:
 
 https://fs.keyestudio.com/KS4027-4028
 
