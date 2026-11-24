@@ -2210,7 +2210,7 @@ Make a fire lighter close to the gas sensor, 1602 LCD will display“MQ-2”at t
 
 ## Resources:
 
-[https://fs.keyestudio.com/KS4027-4028](https://fs.keyestudio.com/KS4027-4028)
+[https://fs.keyestudio.com/KS4027-KS4028](https://fs.keyestudio.com/KS4027-KS4028)
 
 
 

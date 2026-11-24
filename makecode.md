@@ -198,7 +198,7 @@ If the links are too troublesome for you , then you can also turn to our
 ‘Troubleshooting Downloads with WebUSB’and“upload the firmware”in the folder we
 provided in the link:
 
-https://fs.keyestudio.com/KS4027-4028
+[https://fs.keyestudio.com/KS4027-KS4028](https://fs.keyestudio.com/KS4027-KS4028)
 
 ![Untitled](media/image/4cf10fecd346658a9943e900eef2e265.png)
 
